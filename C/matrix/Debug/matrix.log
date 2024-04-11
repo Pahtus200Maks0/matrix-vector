@@ -1,0 +1,3 @@
+﻿D:\Visual studia\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (matrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  matematic.cpp
+  matrix.vcxproj -> D:\Program C++ (VS)\matrix\Debug\matrmatic.exe

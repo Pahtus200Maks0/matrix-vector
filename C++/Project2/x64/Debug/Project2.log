@@ -1,0 +1,5 @@
+﻿D:\Visual studia\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  matematicc++_1.cpp
+  matematicc++_2.cpp
+  Создание кода...
+  Project2.vcxproj -> D:\Program C++ (VS)\Project2\x64\Debug\matematicc++.exe
